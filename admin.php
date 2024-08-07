@@ -68,8 +68,8 @@ ini_set('display_errors', 'on');
               <table>         
   <thead>
     <tr>
+        echo "Salam"
       <th>id</th>
-      <th>username</th>
       <th>username</th>
       <th>Email</th>
       <th>Tel</th>
