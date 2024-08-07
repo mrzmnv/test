@@ -70,6 +70,7 @@ ini_set('display_errors', 'on');
     <tr>
       <th>id</th>
       <th>username</th>
+      <th>username</th>
       <th>Email</th>
       <th>Tel</th>
       <th>Edit</th>
